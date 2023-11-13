@@ -11,7 +11,7 @@ Perform insert, remove, update, fetch with Postgres database and utilize routing
 
 01) Clone the project
 
-		https://github.com/himash79/Python-crud-app.git
+		https://github.com/himash79/Python-CRUD-App.git
 		
 02) Open project using prefer IDE
 
